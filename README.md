@@ -4,4 +4,5 @@
 18 gessinggame.sh
 Fecha
 05/23/20
-22:58:12
+Hora
+22:59:46

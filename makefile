@@ -4,5 +4,5 @@ README:
 	 wc -l gessinggame.sh >> README.md
 	echo "Fecha" >> README.md
 	date +%D >> README.md
-	echo "Hora" >> README.ms
+	echo "Hora" >> README.md
 	date +%T >> README.md
